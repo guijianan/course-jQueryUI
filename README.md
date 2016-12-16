@@ -22,5 +22,9 @@ jQuery UI 是一个建立在 jQuery JavaScript 库上的小部件和交互库，
 
 ## 学习资料
 
-- [视频课程有待补充](*)
+- [jQueryUI 视频课程<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13">](https://pan.baidu.com/s/1ch6J6m)
+
+- [jQueryUI开发者手册](http://www.runoob.com/jqueryui/jqueryui-tutorial.html)  
+  非常丰富的jQueryUI资料。
+  
 - [在线练习有待补充](*)
